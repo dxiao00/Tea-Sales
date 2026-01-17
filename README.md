@@ -23,4 +23,4 @@ waste/spoilage by around 37.78% compared to our baseline strategy.
 I created a hierarchical Poisson regression model to predict weekly sales for each type of milk tea. 
 The model predictions were fairly accurate, with an average error of only about 3.6 sales. Around
 95.3% of observations fell within their 95% prediction intervals, so using the upper intervals
-provides a good guide for the stocking of ingredients. 
+provides a good guide for the minimum stocking level of ingredients. 
